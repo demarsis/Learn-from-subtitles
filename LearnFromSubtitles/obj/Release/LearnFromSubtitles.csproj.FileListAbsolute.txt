@@ -1,0 +1,9 @@
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\bin\Release\LearnFromSubtitles.exe.config
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\bin\Release\LearnFromSubtitles.exe
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\bin\Release\LearnFromSubtitles.pdb
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\obj\Release\LearnFromSubtitles.SortWindow.resources
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\obj\Release\LearnFromSubtitles.MainWindow.resources
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\obj\Release\LearnFromSubtitles.Properties.Resources.resources
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\obj\Release\LearnFromSubtitles.csproj.GenerateResource.Cache
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\obj\Release\LearnFromSubtitles.exe
+C:\Users\dem\Desktop\LearnFromSubtitles\LearnFromSubtitles\obj\Release\LearnFromSubtitles.pdb
